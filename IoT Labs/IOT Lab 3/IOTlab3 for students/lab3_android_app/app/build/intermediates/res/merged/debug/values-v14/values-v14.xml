@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/SUTD%20intro%20to%20programming%20and%20information%20%20system%202015/Internetofthings%20IOT%20lab/IOT%20project%20and%20introduction/IOT%20software%20from%20sibo/src/Android/UDOOAndroidADKDemoV2/app/src/main/res/values-v14/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar"/>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TryDistanceMatrixAPI</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="locationA">Location A</string>
+    <string name="locationB">Location B</string>
+    <string name="get_info">Get Info</string>
+    <string name="action_settings">Settings</string>
+</resources>

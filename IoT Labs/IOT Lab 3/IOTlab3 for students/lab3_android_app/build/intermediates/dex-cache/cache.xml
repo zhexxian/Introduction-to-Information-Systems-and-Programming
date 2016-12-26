@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Zhang Zhexian\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Zhang Zhexian\Desktop\IOTlab3 for students\IOTlab3 for students\lab3_android_app\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-5a1df5f958374114ee612114cc406eb4b60927fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Zhang Zhexian\Desktop\IOTlab3 for students\IOTlab3 for students\lab3_android_app\app\libs\adktoolkit-0.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d5dede12c6641ce78bb875a79c7652d403f44fc8">
+        <dex dex="C:\Users\Zhang Zhexian\Desktop\IOTlab3 for students\IOTlab3 for students\lab3_android_app\app\build\intermediates\pre-dexed\debug\adktoolkit-0.2.0-8b3d3ae320f058413391797f69d8964d8fd93067.jar" />
+    </item>
+
+</items>

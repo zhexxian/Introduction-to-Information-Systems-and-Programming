@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+	<ToggleButton 
+		android:textOn="Turn OFF" 
+		android:textOff="Turn ON" 
+		android:id="@+id/toggleButtonLED" 
+		android:layout_width="500dp" 
+		android:layout_height="200dp" 
+		android:layout_centerVertical="true" 
+		android:layout_centerHorizontal="true"
+		android:textSize="50sp"
+		android:onClick="blinkLED"
+		android:checked="false" />
+</RelativeLayout><!-- From: file:/C:/Users/Zhang%20Zhexian/Desktop/IOTlab3%20for%20students/IOTlab3%20for%20students/lab3_android_app/app/src/main/res/layout/main.xml -->
